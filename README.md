@@ -1,0 +1,2 @@
+# TRSS_AllBot_Docker
+使用docker直接安装TRSS_AllBot，避免在Unraid上出现不能修改logo的情况
