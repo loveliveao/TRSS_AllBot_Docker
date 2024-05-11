@@ -3,7 +3,7 @@
 此项目来自统一机器人管理脚本TRSS_AllBot
 
 原项目地址：
-Github：https://github.com/TimeRainStarSky/Yunzai
+Github：https://github.com/TimeRainStarSky/Yunzai\
 Gitee: https://gitee.com/TimeRainStarSky/Yunzai
 
 本项目使用方法
